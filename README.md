@@ -49,7 +49,7 @@ Step 2: Calculate the Tokhuras distance from code vectors in the codebook framew
 Steps to execute the program:
 	Step 1: Download and extract the file.
 	Step 2: Open the project in Visual Studio 2010
-	Step 3: To view the source code go to View -> Solution Explorer -> 204101041_VowelRecognition -> Source Files -> 204101041_VowelRecognition.cpp
+	Step 3: To view the source code go to View -> Solution Explorer -> 204101019_VowelRecognition -> Source Files -> 204101019_VowelRecognition.cpp
 	Step 4: Run the program by pressing F5 key. 
 		The program will first train the model on the training files and create a code vector corresponding to the vowel recordings. This model will be then tested on the test recordings of every vowel. The program contains 10 training recordings for each vowel and 10 testing file for each vowel. The program creates a codebook of 25 code vectors using these 50 training files and this codebook is then used to predict the vowel in the test files. There are 10 testing files available for each vowel.  
 
